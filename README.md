@@ -1,2 +1,2 @@
-# Getir Slenium Case Example
+# Getir: Selenium Case Example
 
