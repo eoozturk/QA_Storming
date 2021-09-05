@@ -1,1 +1,2 @@
-# GetirQA
+# Getir Slenium Case Example
+
