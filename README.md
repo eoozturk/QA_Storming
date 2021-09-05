@@ -20,7 +20,7 @@ User opens 'Shop Page' and 'Dresses Category'. User selects a product and opens 
 <p align="center"><img align="center" src="images/r5.png" height= 500></p>
 <p align="center"><img align="center" src="images/r6.png" height= 550></p>
 
-## Some Bug Examples
+## Case 4: Some Bug Examples
 
 ### Bug 1: Ürünler sayfasındaki ücrete göre sıralama seçenekleri seçildiğinde ürünler random sıralanmaktadır.
 
