@@ -34,7 +34,7 @@ Beklenen Sonuç: Ürünlerin seçilmiş olan fiyat sıralama seçeneğine göre 
 
 <p align="center"> <img src="images/r7.png" height= 500> </p> 
 
-### Bug 2: Contact Us bölümündeki iletişim forumunda bulunan 'Phone No' alanında negatif numara oluşturulmaktadır.
+### Bug 2: Contact Us bölümündeki iletişim formunda bulunan 'Phone No' alanında negatif numara oluşturulmaktadır.
 
 Bug Url: https://training.qastorming.com/contact/
 
