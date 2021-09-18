@@ -9,7 +9,7 @@ public class Test1 extends BaseTest{
 
         TestElements reg = new TestElements(wdriver);
         reg.accBtn();
-        reg.regMail("150201214@kocaeli.edu.tr");
+        reg.regMail("deneme@deneme.com");
         reg.regBtn();
         Thread.sleep(1000);
     }
