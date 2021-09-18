@@ -9,14 +9,14 @@ public class Test2 extends BaseTest{
         TestElements acc = new TestElements(wdriver);
 
         acc.accBtn();
-        acc.accMail("150201214@kocaeli.edu.tr");
-        acc.accPsswrd("kbKC4A8eXGvm");
+        acc.accMail("deneme@deneme.com");
+        acc.accPsswrd("123456");
         acc.accLogin();
         acc.accDetail();
         Thread.sleep(2000);
 
         acc.accName("Getir", "Test");
-        acc.crrPassword("kbKC4A8eXGvm");
+        acc.crrPassword("123456");
         acc.newPassword("Get123456");
         acc.confirmPassword("Get123456");
         Thread.sleep(2000);
