@@ -11,7 +11,7 @@ public class BaseTest {
     @Before
     public void startPage() {
 
-        System.setProperty("webdriver.gecko.driver","C:\\Users\\AloTech\\IdeaProjects\\getir\\geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver"," 'Path'\\geckodriver.exe");
         String url ="https://training.qastorming.com/";
         wdriver.get(url);
         wdriver.manage().window().maximize();
