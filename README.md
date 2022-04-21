@@ -1,4 +1,4 @@
-# Getir: Selenium Case Example
+# Selenium Case Example
 
 Browser: Mozilla Firefox,  Web Driver: Firefox driver,  Language: Java
 
